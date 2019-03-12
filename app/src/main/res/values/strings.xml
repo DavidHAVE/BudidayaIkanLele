@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Budidaya Ikan Lele</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Pembuatan Kolam</item>
+        <item>Pemilihan Bibit</item>
+        <item>Perawatan dan Pakan</item>
+        <item>Hama dan Penyakit</item>
+        <item>Panen</item>
+    </string-array>
+
+    <string name="panduan_budidaya">Panduan Budidaya</string>
+
+    <!--kolam-->
+    <string name="title_kolam1">Kolam Tanah</string>
+    <string name="title_kolam2">Kolam Terpal</string>
+    <string name="title_kolam3">Kolam Terpal</string>
+    <string name="title_kolam4">Kolam Beton/Semen</string>
+
+    <string name="description_kolam1">Kolam tanah adalah kolam pembesaran ikan lele yang berbentuk kubangan pada tanah yang di bentuk sedemikin rupa sehingga mampu menjadi tempat hidup yang baik untuk pembesaran ikan lele.
+    Kelebihan kolam tanah:
+•	Biaya yang dikeluarkan cenderung lebih murah.
+•	Tidak memerlukan probiotik yang bertugas untuk mengurai sisa pakan dan kotoran.
+•	Mudah mendapatkan air. Karena biasanya kolam tanah berada di dekat irigasi.
+•	Lebih alami.
+•	Memiliki kandungan oksigen dan ion yang lebih banyak.
+Kekurangan kolam tanah:
+•	Sering terjadi pendangkalan
+•	Sering terjadi kebocoran pada dinding yang disebabkan oleh hama seperti kepiting dan juga tekanan air.
+•	Sulit terhindar dari hama alami ikan lele seperti ular, biawak, lingsang dan lain lain.
+•	Jika terjadi hujan, rawan terjadi kebanjiran pada kolam.
+•	Kolam tanah biasanya mendapat sumber air dari saluran irigasi yang sering tercemar limbah seperti pestisida pertanian, racun ikan, dan lain lain.
+</string>
+    <string name="description_kolam2">Kolam terpal yaitu jenis kolam yang menggunakan terpal sebagai bahan utamanya serta didukung oleh bahan lainnya. Kolam terpal mempunyai nilai ekonomis untuk budidaya lele. Cara pembuatannya pun relatif mudah. Oleh karena itu, teknologi ini termasuk tepat guna.
+Kelebihan :
+•	Proses pembuatan cukup mudah
+•	Tidak membutuhkan tampat yang luas
+•	Terhindar dari predator alami lele seperti ular, biawak, dan lingsang
+•	Kedalaman air mudah di atur
+•	Lebih mudah dalam perawatan dan pemeliharaan
+Kekurangan :
+•	Rawan bocor
+•	Usia kolam relatif lebih pendek
+•	Miskin oksigen, ion ion, dan mineral
+•	Air lebih cepat keruh dan bau
+Jenis - jenis kolam terpal :
+a.	Kolam terpal yang berada di atas tanah
+Kolam terpal di atas permukaan tanah adalah kolam yang dibuat di atas permukaan tanah tanpa menggali atau melubangi permukaan tanah.
+</string>
+    <string name="description_kolam3">Pada prinsipnya, kolam terpal di bawah tanah, mirip dengan kolam tanah. Hnya saja pada permukaaan nya dilapisi dengan tepal dengan tujuan agar tanah tidak longsor atau air habi terserap oleh tanah.</string>
+    <string name="description_kolam4">Kolam beton merupakan media budidaya ikan yang sangat disukai karena tahan lama dan perawatannya cukup mudah. Kolam ini dibuat dengan menggunakan campuran semen sebagai bahan pengeras dinding kolam. Kolam beton dapat bertahan hingga puluhan tahun apabila dirawat dengan benar.
+    Kelebihan kolam beton / semen :
+•	Tahan lama
+•	Kuat dan kokoh
+•	Terhindar dari predator alami
+•	Bisa dibangun dimana saja
+•	Perawatan mudah
+•	Kualitas air terjaga
+Kekurangan kolam beton / semen :
+•	Biaya terlalu mahal
+•	Kurang nya kadar oksigen dan mineral
+NB:
+Untuk kolam baru, sebaiknya di isi air dulu sampai penuh lalu diamkan selama 1 minggu setelah itu, buang air dan ganti dengan air yang baru. Hal ini bertujuan untuk menghilangkan zat – zat kimia yang berada di kolam.
+Untuk kolam lama / bekas budidaya. Keringkan kolam dan diamkan selama 1 minggu. Setelah itu isi air kembali dan kolam pun siap digunakan. Hal ini bertujuan untuk membunuh siklus hidup bakteri dalam kolam, sehingga ikan baru tidak tertular penyakit dari budidaya sebelum nya.
+</string>
+
+    <!--bibit-->
+    <string name="title_bibit"></string>
+
+    <string name="description_bibit"></string>
+
+    <!--perawatan dan pakan-->
+    <string name="title_perawatan"></string>
+
+    <string name="description_perawatan"></string>
+
+    <!--penyakit-->
+    <string name="title_penyakit1"></string>
+    <string name="title_penyakit2"></string>
+    <string name="title_penyakit3"></string>
+
+    <string name="description_penyakit1"></string>
+    <string name="description_penyakit2"></string>
+    <string name="description_penyakit3"></string>
+
+    <!--panen-->
+    <string name="title_panen"></string>
+
+    <string name="description_panen"></string>
+
+
+</resources>

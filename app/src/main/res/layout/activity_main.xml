@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.ari.android.budidayaikanlele.ui.MainActivity">
+
+    <ImageButton
+        android:id="@+id/tentang_image_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:background="@android:color/white"
+        android:src="@drawable/importance_50"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/panduanbudaya_button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_red_dark"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:layout_marginBottom="70dp"
+            android:text="Panduan Budidaya"/>
+        <Button
+            android:id="@+id/kolam_button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_red_dark"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:layout_marginBottom="70dp"
+            android:text="Kolam"/>
+        <Button
+            android:id="@+id/keluar_button"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_red_dark"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:text="Keluar"/>
+    </LinearLayout>
+
+</RelativeLayout>
